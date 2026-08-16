@@ -1,5 +1,7 @@
 # Twsta
 
+A second brain for your coding agent. A simple skill that gives the agent permanent memory of who you are, your voice, your rules, and your decisions, stored as Obsidian-native markdown on your machine.
+
 I kept finding myself using coding agents over web apps. They're powerful, they have real access, they can do everything. But there's one problem. Tell an agent something today, come back tomorrow, it's gone. It forgets who I am, what I'm building, how I write, what I decided. I lost whole sessions of context.
 
 So I built twsta. It's a second brain for the agent, stored on your computer as plain markdown. The agent reads it at the start of every session, follows it while it works, and writes durable facts back. It remembers everything.
